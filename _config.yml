@@ -64,6 +64,7 @@ paginate_path: 'page:num'
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-twitter-plugin
 
 kramdown:
   auto_ids: true
