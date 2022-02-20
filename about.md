@@ -5,7 +5,7 @@ title: About the streamingmedia.io blog
 tags: []
 modified: 2022-02-20
 image:
-  feature: about-site-logo.png
+  feature: header.png
   credit:
   creditlink:
 ---
