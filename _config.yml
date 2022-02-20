@@ -3,18 +3,18 @@ description:      streamingmedia.io blog
 logo:             site-logo.png
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              https://blog.streamingmedia.io
+url:              https://streamingmedia.io
 rss_path: /rss
 
 # Owner/author information
 owner:
-  name:           stremaingmedia.io
+  name:           streamingmedia.io
   avatar:         bio-photo.png
-  email:          streamingmedia.io@mgail.com
+  email:          streamingmedia.io@gail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:  stream_media_io
   facebook:
-  github: stremaingmediaio
+  github: streamingmediaio
   stackexchange:
   linkedin:
   instagram:
