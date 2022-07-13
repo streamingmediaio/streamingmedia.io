@@ -36,8 +36,8 @@ links:
     url: /
   - title: About
     url: /about
-  - title: Twitter
-    url: /twitter
+#  - title: Twitter
+#    url: /twitter
 #  - title: OSS
 #    url: /oss
   - title: Tags
